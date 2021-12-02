@@ -5,5 +5,5 @@ https://matahj.github.io/ejercicioTMcuna/
 Identifica:
 - Persona
 - Control XB
-- Celular
+- Taza
 
